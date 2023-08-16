@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Homespace\\TestScenario\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Homespace\\TestScenario\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Homespace\\TestScenario\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Homespace\\TestScenario\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Homespace\\TestScenario\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Homespace\\TestScenario\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Homespace\\TestScenario\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "C:\\Homespace\\TestScenario\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\HuyPhanQuang\\.nuget\\packages\\",
-        "outputPath": "C:\\Homespace\\TestScenario\\WebApplication1\\WebApplication1\\obj\\",
+        "outputPath": "C:\\Homespace\\TestScenario\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HuyPhanQuang\\AppData\\Roaming\\NuGet\\NuGet.Config",
